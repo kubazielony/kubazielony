@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Jakub 👋
 
-<!--
-**kubazielony/kubazielony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 20-year-old Computer Science student at the University of Zielona Góra, currently in my 3-rd semester.
 
-Here are some ideas to get you started:
+I'm passionate about software development and enjoy building projects that help me learn new technologies and improve my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Interests
+
+- 🌐 Web Services & Backend Development
+- ⚙️ Embedded Systems
+- 🎮 Game Development
+
+Game development is one of my biggest interests, and I enjoy learning how games and game engines work.
+
+## 💻 Technologies
+
+Languages:
+- PHP
+- C/C++
+- Python
+- Java
+- SQL
+
+Tools & Technologies:
+- Docker
+- Git
+- MySQL
+- Linux
+- HTML
+- CSS
+- JavaScript
+
+## 📫 Contact
+
+- 💼 LinkedIn: https://www.linkedin.com/in/jakub-binek-4a409040a/
+- 💻 GitHub https://github.com/kubazielony
+- 📧 Email: kubazielony00@gmail.com
+
+---
