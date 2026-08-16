@@ -1,6 +1,6 @@
 # Hi, I'm Jakub 👋
 
-I'm a 20-year-old Computer Science student at the University of Zielona Góra, currently in my 3-rd semester.
+I'm a 20 years old Computer Science student at the University of Zielona Góra,  currently in my 3rd semester.
 
 I'm passionate about software development and enjoy building projects that help me learn new technologies and improve my programming skills.
 
