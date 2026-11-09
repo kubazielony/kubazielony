@@ -15,20 +15,22 @@ Game development is one of my biggest interests, and I enjoy learning how games 
 ## 💻 Technologies
 
 Languages:
-- PHP
+- PHP (CakePHP)
 - C/C++
-- Python
-- Java
-- SQL
+- Python (FastApi)
+- Java (Spring Boot)
+- SQL (MySQL, Postgres)
 
 Tools & Technologies:
 - Docker
 - Git
+- Postgres
 - MySQL
 - Linux
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 
 ## 📫 Contact
 
